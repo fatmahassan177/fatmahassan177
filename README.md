@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**fatmahassan177/fatmahassan177** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there 👋, my name is Fatma
+#### I am a student at Shorouk Academy in the Computer Science
+I am a student at Shorouk Academy in the Computer Science department . I am interested in the field of Front-End development and continuously improve my skills in it.
 
-Here are some ideas to get you started:
+Skills: JS/ HTML5 / CSS3 / Bootstrap / C#
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on this page. 
+
+
+
+
+
